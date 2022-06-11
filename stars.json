@@ -1,21 +1,21 @@
 [
   {
     "full_name": "burrowers/garble",
-    "stargazers_count": 1772,
+    "stargazers_count": 1774,
     "open_issues_count": 23,
     "forks_count": 125
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 6004,
+    "stargazers_count": 6017,
     "open_issues_count": 72,
-    "forks_count": 205
+    "forks_count": 206
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 6290,
+    "stargazers_count": 6389,
     "open_issues_count": 177,
-    "forks_count": 571
+    "forks_count": 573
   },
   {
     "full_name": "joshuabezaleel/go-osf",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "VictoriaMetrics/VictoriaMetrics",
-    "stargazers_count": 6526,
+    "stargazers_count": 6527,
     "open_issues_count": 499,
     "forks_count": 616
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5133,
+    "stargazers_count": 5139,
     "open_issues_count": 0,
-    "forks_count": 549
+    "forks_count": 550
   },
   {
     "full_name": "arpit20adlakha/Data-Structure-Algorithms-LLD-HLD",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "otoolep/hraftd",
-    "stargazers_count": 784,
+    "stargazers_count": 785,
     "open_issues_count": 0,
     "forks_count": 115
   },
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "benbjohnson/litestream",
-    "stargazers_count": 6746,
+    "stargazers_count": 6748,
     "open_issues_count": 50,
     "forks_count": 133
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 4628,
-    "open_issues_count": 62,
+    "stargazers_count": 4631,
+    "open_issues_count": 51,
     "forks_count": 130
   },
   {
@@ -85,25 +85,25 @@
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 13160,
-    "open_issues_count": 418,
+    "stargazers_count": 13161,
+    "open_issues_count": 417,
     "forks_count": 697
   },
   {
     "full_name": "dolthub/dolt",
-    "stargazers_count": 10747,
+    "stargazers_count": 10749,
     "open_issues_count": 344,
     "forks_count": 300
   },
   {
     "full_name": "replicate/cog",
-    "stargazers_count": 2505,
-    "open_issues_count": 181,
+    "stargazers_count": 2508,
+    "open_issues_count": 182,
     "forks_count": 76
   },
   {
     "full_name": "google/jsonapi",
-    "stargazers_count": 1283,
+    "stargazers_count": 1284,
     "open_issues_count": 66,
     "forks_count": 216
   },
@@ -134,7 +134,7 @@
   {
     "full_name": "getporter/operator",
     "stargazers_count": 18,
-    "open_issues_count": 30,
+    "open_issues_count": 29,
     "forks_count": 10
   },
   {
