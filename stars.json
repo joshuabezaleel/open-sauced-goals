@@ -1,27 +1,45 @@
 [
   {
+    "full_name": "wailsapp/wails",
+    "stargazers_count": 7069,
+    "open_issues_count": 51,
+    "forks_count": 376
+  },
+  {
+    "full_name": "cncf/mentoring",
+    "stargazers_count": 1190,
+    "open_issues_count": 6,
+    "forks_count": 385
+  },
+  {
+    "full_name": "rclone/rclone",
+    "stargazers_count": 33316,
+    "open_issues_count": 768,
+    "forks_count": 3033
+  },
+  {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 6280,
+    "stargazers_count": 6353,
     "open_issues_count": 22,
-    "forks_count": 1093
+    "forks_count": 1104
   },
   {
     "full_name": "burrowers/garble",
-    "stargazers_count": 1791,
-    "open_issues_count": 22,
-    "forks_count": 125
+    "stargazers_count": 1794,
+    "open_issues_count": 24,
+    "forks_count": 127
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 6154,
+    "stargazers_count": 6204,
     "open_issues_count": 72,
-    "forks_count": 219
+    "forks_count": 220
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 6841,
-    "open_issues_count": 182,
-    "forks_count": 589
+    "stargazers_count": 6893,
+    "open_issues_count": 184,
+    "forks_count": 593
   },
   {
     "full_name": "joshuabezaleel/go-osf",
@@ -43,19 +61,19 @@
   },
   {
     "full_name": "VictoriaMetrics/VictoriaMetrics",
-    "stargazers_count": 6553,
-    "open_issues_count": 496,
-    "forks_count": 618
+    "stargazers_count": 6574,
+    "open_issues_count": 498,
+    "forks_count": 619
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5374,
+    "stargazers_count": 5472,
     "open_issues_count": 0,
-    "forks_count": 575
+    "forks_count": 584
   },
   {
     "full_name": "arpit20adlakha/Data-Structure-Algorithms-LLD-HLD",
-    "stargazers_count": 835,
+    "stargazers_count": 839,
     "open_issues_count": 0,
     "forks_count": 151
   },
@@ -73,43 +91,43 @@
   },
   {
     "full_name": "benbjohnson/litestream",
-    "stargazers_count": 6784,
-    "open_issues_count": 50,
+    "stargazers_count": 6796,
+    "open_issues_count": 52,
     "forks_count": 133
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 4671,
+    "stargazers_count": 4691,
     "open_issues_count": 53,
     "forks_count": 130
   },
   {
     "full_name": "cncf/wg-env-sustainability",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 5,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 13178,
-    "open_issues_count": 416,
-    "forks_count": 697
+    "stargazers_count": 13190,
+    "open_issues_count": 421,
+    "forks_count": 699
   },
   {
     "full_name": "dolthub/dolt",
-    "stargazers_count": 10766,
-    "open_issues_count": 345,
+    "stargazers_count": 10783,
+    "open_issues_count": 348,
     "forks_count": 300
   },
   {
     "full_name": "replicate/cog",
-    "stargazers_count": 2520,
+    "stargazers_count": 2528,
     "open_issues_count": 183,
     "forks_count": 79
   },
   {
     "full_name": "google/jsonapi",
-    "stargazers_count": 1287,
+    "stargazers_count": 1288,
     "open_issues_count": 66,
     "forks_count": 216
   },
@@ -122,13 +140,13 @@
   {
     "full_name": "sourcegraph/devx-scratch",
     "stargazers_count": 3,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "sourcegraph/doctree",
-    "stargazers_count": 554,
-    "open_issues_count": 13,
+    "stargazers_count": 561,
+    "open_issues_count": 15,
     "forks_count": 13
   },
   {
@@ -140,18 +158,18 @@
   {
     "full_name": "getporter/operator",
     "stargazers_count": 18,
-    "open_issues_count": 29,
+    "open_issues_count": 27,
     "forks_count": 10
   },
   {
     "full_name": "golang-design/history",
-    "stargazers_count": 853,
+    "stargazers_count": 856,
     "open_issues_count": 0,
     "forks_count": 42
   },
   {
     "full_name": "AlexChesser/recruiter-autoresponse",
-    "stargazers_count": 420,
+    "stargazers_count": 421,
     "open_issues_count": 6,
     "forks_count": 184
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 229,
     "open_issues_count": 5,
     "forks_count": 16
-  },
-  {
-    "full_name": "golang-design/under-the-hood",
-    "stargazers_count": 3753,
-    "open_issues_count": 8,
-    "forks_count": 455
-  },
-  {
-    "full_name": "go-share-team/go_interview",
-    "stargazers_count": 512,
-    "open_issues_count": 0,
-    "forks_count": 91
-  },
-  {
-    "full_name": "weaveworks/awesome-gitops",
-    "stargazers_count": 953,
-    "open_issues_count": 4,
-    "forks_count": 82
   }
 ]
