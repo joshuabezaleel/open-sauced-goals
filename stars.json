@@ -1,45 +1,45 @@
 [
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 2033,
+    "stargazers_count": 2179,
     "open_issues_count": 6,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "cncf/cloud-native-community-cookbook",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 9,
     "forks_count": 25
   },
   {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 7714,
+    "stargazers_count": 7717,
     "open_issues_count": 1,
-    "forks_count": 475
+    "forks_count": 476
   },
   {
     "full_name": "multiprocessio/datastation",
-    "stargazers_count": 2020,
-    "open_issues_count": 30,
-    "forks_count": 66
+    "stargazers_count": 2170,
+    "open_issues_count": 32,
+    "forks_count": 68
   },
   {
     "full_name": "hwayne/awesome-cold-showers",
-    "stargazers_count": 5997,
+    "stargazers_count": 6079,
     "open_issues_count": 11,
-    "forks_count": 67
+    "forks_count": 69
   },
   {
     "full_name": "sigstore/gitsign",
-    "stargazers_count": 454,
-    "open_issues_count": 13,
-    "forks_count": 26
+    "stargazers_count": 461,
+    "open_issues_count": 12,
+    "forks_count": 27
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 7480,
-    "open_issues_count": 59,
-    "forks_count": 385
+    "stargazers_count": 7528,
+    "open_issues_count": 58,
+    "forks_count": 389
   },
   {
     "full_name": "cncf/mentoring",
@@ -49,32 +49,32 @@
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 33377,
-    "open_issues_count": 769,
+    "stargazers_count": 33397,
+    "open_issues_count": 766,
     "forks_count": 3037
   },
   {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 6395,
+    "stargazers_count": 6408,
     "open_issues_count": 22,
-    "forks_count": 1109
+    "forks_count": 1111
   },
   {
     "full_name": "burrowers/garble",
-    "stargazers_count": 1811,
+    "stargazers_count": 1814,
     "open_issues_count": 26,
     "forks_count": 127
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 6261,
-    "open_issues_count": 75,
-    "forks_count": 222
+    "stargazers_count": 6281,
+    "open_issues_count": 77,
+    "forks_count": 223
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 6949,
-    "open_issues_count": 178,
+    "stargazers_count": 6961,
+    "open_issues_count": 177,
     "forks_count": 598
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "chainguard-dev/ssc-reading-list",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "VictoriaMetrics/VictoriaMetrics",
-    "stargazers_count": 6608,
-    "open_issues_count": 509,
+    "stargazers_count": 6612,
+    "open_issues_count": 485,
     "forks_count": 621
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5695,
+    "stargazers_count": 5842,
     "open_issues_count": 0,
-    "forks_count": 627
+    "forks_count": 635
   },
   {
     "full_name": "arpit20adlakha/Data-Structure-Algorithms-LLD-HLD",
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "benbjohnson/litestream",
-    "stargazers_count": 6815,
+    "stargazers_count": 6823,
     "open_issues_count": 50,
     "forks_count": 133
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 4714,
-    "open_issues_count": 56,
+    "stargazers_count": 4721,
+    "open_issues_count": 55,
     "forks_count": 132
   },
   {
@@ -145,25 +145,25 @@
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 13213,
-    "open_issues_count": 419,
+    "stargazers_count": 13221,
+    "open_issues_count": 414,
     "forks_count": 700
   },
   {
     "full_name": "dolthub/dolt",
-    "stargazers_count": 10801,
-    "open_issues_count": 350,
+    "stargazers_count": 10804,
+    "open_issues_count": 356,
     "forks_count": 300
   },
   {
     "full_name": "replicate/cog",
-    "stargazers_count": 2536,
-    "open_issues_count": 184,
-    "forks_count": 79
+    "stargazers_count": 2538,
+    "open_issues_count": 187,
+    "forks_count": 80
   },
   {
     "full_name": "google/jsonapi",
-    "stargazers_count": 1289,
+    "stargazers_count": 1290,
     "open_issues_count": 66,
     "forks_count": 216
   },
@@ -171,7 +171,7 @@
     "full_name": "flamego/flamego",
     "stargazers_count": 359,
     "open_issues_count": 6,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "sourcegraph/devx-scratch",
