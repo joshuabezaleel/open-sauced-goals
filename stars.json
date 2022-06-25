@@ -1,13 +1,13 @@
 [
   {
     "full_name": "sachaos/viddy",
-    "stargazers_count": 2286,
-    "open_issues_count": 14,
-    "forks_count": 39
+    "stargazers_count": 2519,
+    "open_issues_count": 16,
+    "forks_count": 41
   },
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 2258,
+    "stargazers_count": 2267,
     "open_issues_count": 6,
     "forks_count": 81
   },
@@ -19,67 +19,67 @@
   },
   {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 7724,
+    "stargazers_count": 7725,
     "open_issues_count": 1,
     "forks_count": 477
   },
   {
     "full_name": "multiprocessio/datastation",
-    "stargazers_count": 2251,
+    "stargazers_count": 2272,
     "open_issues_count": 36,
     "forks_count": 72
   },
   {
     "full_name": "hwayne/awesome-cold-showers",
-    "stargazers_count": 6154,
+    "stargazers_count": 6220,
     "open_issues_count": 11,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "sigstore/gitsign",
-    "stargazers_count": 470,
-    "open_issues_count": 9,
+    "stargazers_count": 477,
+    "open_issues_count": 7,
     "forks_count": 27
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 7615,
+    "stargazers_count": 7644,
     "open_issues_count": 59,
-    "forks_count": 392
+    "forks_count": 395
   },
   {
     "full_name": "cncf/mentoring",
-    "stargazers_count": 1197,
+    "stargazers_count": 1200,
     "open_issues_count": 6,
     "forks_count": 387
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 33430,
+    "stargazers_count": 33439,
     "open_issues_count": 766,
-    "forks_count": 3043
+    "forks_count": 3046
   },
   {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 6424,
+    "stargazers_count": 6434,
     "open_issues_count": 22,
-    "forks_count": 1116
+    "forks_count": 1120
   },
   {
     "full_name": "burrowers/garble",
-    "stargazers_count": 1818,
-    "open_issues_count": 26,
+    "stargazers_count": 1820,
+    "open_issues_count": 27,
     "forks_count": 128
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 6319,
+    "stargazers_count": 6335,
     "open_issues_count": 80,
-    "forks_count": 228
+    "forks_count": 230
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 6972,
+    "stargazers_count": 6980,
     "open_issues_count": 179,
     "forks_count": 599
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "VictoriaMetrics/VictoriaMetrics",
-    "stargazers_count": 6624,
-    "open_issues_count": 485,
-    "forks_count": 621
+    "stargazers_count": 6625,
+    "open_issues_count": 487,
+    "forks_count": 624
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5947,
+    "stargazers_count": 5958,
     "open_issues_count": 0,
     "forks_count": 643
   },
@@ -133,39 +133,39 @@
   },
   {
     "full_name": "benbjohnson/litestream",
-    "stargazers_count": 6829,
+    "stargazers_count": 6834,
     "open_issues_count": 50,
     "forks_count": 133
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 4730,
-    "open_issues_count": 56,
-    "forks_count": 132
+    "stargazers_count": 4741,
+    "open_issues_count": 58,
+    "forks_count": 134
   },
   {
     "full_name": "cncf/wg-env-sustainability",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 13244,
-    "open_issues_count": 401,
-    "forks_count": 700
+    "stargazers_count": 13249,
+    "open_issues_count": 405,
+    "forks_count": 699
   },
   {
     "full_name": "dolthub/dolt",
-    "stargazers_count": 11464,
-    "open_issues_count": 360,
-    "forks_count": 306
+    "stargazers_count": 11671,
+    "open_issues_count": 356,
+    "forks_count": 310
   },
   {
     "full_name": "replicate/cog",
-    "stargazers_count": 2543,
-    "open_issues_count": 182,
-    "forks_count": 81
+    "stargazers_count": 2547,
+    "open_issues_count": 185,
+    "forks_count": 82
   },
   {
     "full_name": "google/jsonapi",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "flamego/flamego",
-    "stargazers_count": 360,
+    "stargazers_count": 359,
     "open_issues_count": 6,
     "forks_count": 27
   }
