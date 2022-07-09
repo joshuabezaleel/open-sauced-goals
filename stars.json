@@ -1,20 +1,20 @@
 [
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 11768,
+    "stargazers_count": 11772,
     "open_issues_count": 19,
     "forks_count": 1416
   },
   {
     "full_name": "jhlywa/chess.js",
-    "stargazers_count": 2793,
+    "stargazers_count": 2798,
     "open_issues_count": 101,
-    "forks_count": 773
+    "forks_count": 774
   },
   {
     "full_name": "chainguard-dev/apko",
-    "stargazers_count": 446,
-    "open_issues_count": 21,
+    "stargazers_count": 447,
+    "open_issues_count": 20,
     "forks_count": 22
   },
   {
@@ -25,43 +25,43 @@
   },
   {
     "full_name": "genjidb/genji",
-    "stargazers_count": 955,
+    "stargazers_count": 956,
     "open_issues_count": 29,
     "forks_count": 61
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 8671,
-    "open_issues_count": 33,
-    "forks_count": 164
+    "stargazers_count": 8683,
+    "open_issues_count": 32,
+    "forks_count": 165
   },
   {
     "full_name": "kcp-dev/kcp",
-    "stargazers_count": 1533,
-    "open_issues_count": 201,
+    "stargazers_count": 1532,
+    "open_issues_count": 197,
     "forks_count": 234
   },
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 24136,
+    "stargazers_count": 24165,
     "open_issues_count": 292,
     "forks_count": 1463
   },
   {
     "full_name": "IndoNLP/nusa-crowd",
-    "stargazers_count": 130,
-    "open_issues_count": 38,
+    "stargazers_count": 134,
+    "open_issues_count": 39,
     "forks_count": 18
   },
   {
     "full_name": "sachaos/viddy",
-    "stargazers_count": 3234,
+    "stargazers_count": 3283,
     "open_issues_count": 14,
-    "forks_count": 52
+    "forks_count": 54
   },
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 2502,
+    "stargazers_count": 2508,
     "open_issues_count": 11,
     "forks_count": 85
   },
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "multiprocessio/datastation",
-    "stargazers_count": 2360,
-    "open_issues_count": 36,
+    "stargazers_count": 2363,
+    "open_issues_count": 37,
     "forks_count": 77
   },
   {
     "full_name": "hwayne/awesome-cold-showers",
-    "stargazers_count": 6358,
+    "stargazers_count": 6365,
     "open_issues_count": 11,
     "forks_count": 74
   },
@@ -97,43 +97,43 @@
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 8303,
-    "open_issues_count": 73,
+    "stargazers_count": 8321,
+    "open_issues_count": 63,
     "forks_count": 422
   },
   {
     "full_name": "cncf/mentoring",
-    "stargazers_count": 1218,
+    "stargazers_count": 1219,
     "open_issues_count": 7,
     "forks_count": 389
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 33627,
-    "open_issues_count": 776,
+    "stargazers_count": 33632,
+    "open_issues_count": 772,
     "forks_count": 3065
   },
   {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 6547,
+    "stargazers_count": 6554,
     "open_issues_count": 23,
     "forks_count": 1134
   },
   {
     "full_name": "burrowers/garble",
-    "stargazers_count": 1876,
+    "stargazers_count": 1878,
     "open_issues_count": 27,
     "forks_count": 132
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 6605,
-    "open_issues_count": 67,
-    "forks_count": 253
+    "stargazers_count": 6633,
+    "open_issues_count": 68,
+    "forks_count": 255
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 7181,
+    "stargazers_count": 7198,
     "open_issues_count": 191,
     "forks_count": 609
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "chainguard-dev/ssc-reading-list",
-    "stargazers_count": 227,
+    "stargazers_count": 228,
     "open_issues_count": 2,
     "forks_count": 9
   },
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "VictoriaMetrics/VictoriaMetrics",
-    "stargazers_count": 6680,
-    "open_issues_count": 498,
-    "forks_count": 638
+    "stargazers_count": 6689,
+    "open_issues_count": 499,
+    "forks_count": 640
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 6137,
-    "open_issues_count": 0,
-    "forks_count": 691
+    "stargazers_count": 6145,
+    "open_issues_count": 1,
+    "forks_count": 692
   },
   {
     "full_name": "arpit20adlakha/Data-Structure-Algorithms-LLD-HLD",
-    "stargazers_count": 857,
+    "stargazers_count": 858,
     "open_issues_count": 1,
-    "forks_count": 158
+    "forks_count": 157
   },
   {
     "full_name": "otoolep/hraftd",
