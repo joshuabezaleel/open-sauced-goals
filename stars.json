@@ -3,13 +3,13 @@
     "full_name": "Vimux/blank",
     "stargazers_count": 175,
     "open_issues_count": 0,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "adityatelange/hugo-PaperMod",
-    "stargazers_count": 3860,
+    "stargazers_count": 3865,
     "open_issues_count": 30,
-    "forks_count": 1265
+    "forks_count": 1269
   },
   {
     "full_name": "GoBandung/meetups",
@@ -19,19 +19,19 @@
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 11819,
+    "stargazers_count": 11849,
     "open_issues_count": 19,
-    "forks_count": 1417
+    "forks_count": 1420
   },
   {
     "full_name": "jhlywa/chess.js",
-    "stargazers_count": 2809,
+    "stargazers_count": 2811,
     "open_issues_count": 101,
     "forks_count": 778
   },
   {
     "full_name": "chainguard-dev/apko",
-    "stargazers_count": 456,
+    "stargazers_count": 460,
     "open_issues_count": 17,
     "forks_count": 22
   },
@@ -43,44 +43,44 @@
   },
   {
     "full_name": "genjidb/genji",
-    "stargazers_count": 962,
+    "stargazers_count": 964,
     "open_issues_count": 31,
     "forks_count": 61
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 8943,
+    "stargazers_count": 8995,
     "open_issues_count": 32,
     "forks_count": 171
   },
   {
     "full_name": "kcp-dev/kcp",
-    "stargazers_count": 1542,
-    "open_issues_count": 204,
+    "stargazers_count": 1545,
+    "open_issues_count": 207,
     "forks_count": 241
   },
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 24543,
-    "open_issues_count": 294,
-    "forks_count": 1477
+    "stargazers_count": 24585,
+    "open_issues_count": 293,
+    "forks_count": 1479
   },
   {
     "full_name": "IndoNLP/nusa-crowd",
     "stargazers_count": 152,
-    "open_issues_count": 56,
-    "forks_count": 23
+    "open_issues_count": 53,
+    "forks_count": 24
   },
   {
     "full_name": "sachaos/viddy",
-    "stargazers_count": 3413,
+    "stargazers_count": 3420,
     "open_issues_count": 15,
     "forks_count": 56
   },
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 2539,
-    "open_issues_count": 12,
+    "stargazers_count": 2542,
+    "open_issues_count": 13,
     "forks_count": 86
   },
   {
@@ -91,33 +91,33 @@
   },
   {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 7756,
+    "stargazers_count": 7761,
     "open_issues_count": 1,
     "forks_count": 485
   },
   {
     "full_name": "multiprocessio/datastation",
-    "stargazers_count": 2392,
-    "open_issues_count": 37,
-    "forks_count": 77
+    "stargazers_count": 2395,
+    "open_issues_count": 38,
+    "forks_count": 78
   },
   {
     "full_name": "hwayne/awesome-cold-showers",
-    "stargazers_count": 6396,
+    "stargazers_count": 6399,
     "open_issues_count": 11,
     "forks_count": 74
   },
   {
     "full_name": "sigstore/gitsign",
-    "stargazers_count": 528,
-    "open_issues_count": 12,
+    "stargazers_count": 531,
+    "open_issues_count": 10,
     "forks_count": 28
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 9249,
-    "open_issues_count": 70,
-    "forks_count": 447
+    "stargazers_count": 9475,
+    "open_issues_count": 73,
+    "forks_count": 455
   },
   {
     "full_name": "cncf/mentoring",
@@ -127,31 +127,31 @@
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 33776,
-    "open_issues_count": 774,
-    "forks_count": 3076
+    "stargazers_count": 33785,
+    "open_issues_count": 778,
+    "forks_count": 3078
   },
   {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 6711,
+    "stargazers_count": 6720,
     "open_issues_count": 24,
-    "forks_count": 1165
+    "forks_count": 1169
   },
   {
     "full_name": "burrowers/garble",
-    "stargazers_count": 1889,
+    "stargazers_count": 1890,
     "open_issues_count": 26,
     "forks_count": 133
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 6843,
+    "stargazers_count": 6886,
     "open_issues_count": 73,
-    "forks_count": 266
+    "forks_count": 267
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 7241,
+    "stargazers_count": 7248,
     "open_issues_count": 190,
     "forks_count": 617
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "VictoriaMetrics/VictoriaMetrics",
-    "stargazers_count": 6724,
-    "open_issues_count": 496,
+    "stargazers_count": 6732,
+    "open_issues_count": 491,
     "forks_count": 642
   }
 ]
