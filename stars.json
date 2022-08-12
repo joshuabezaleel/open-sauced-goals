@@ -1,8 +1,8 @@
 [
   {
     "full_name": "kylesliu/awesome-golang-algorithm",
-    "stargazers_count": 3226,
-    "open_issues_count": 6,
+    "stargazers_count": 3227,
+    "open_issues_count": 7,
     "forks_count": 166
   },
   {
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "superfly/litefs",
-    "stargazers_count": 1315,
+    "stargazers_count": 1335,
     "open_issues_count": 17,
     "forks_count": 22
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 25167,
-    "open_issues_count": 186,
-    "forks_count": 1013
+    "stargazers_count": 25513,
+    "open_issues_count": 196,
+    "forks_count": 1036
   },
   {
     "full_name": "Vimux/blank",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "adityatelange/hugo-PaperMod",
-    "stargazers_count": 4009,
-    "open_issues_count": 23,
-    "forks_count": 1303
+    "stargazers_count": 4030,
+    "open_issues_count": 24,
+    "forks_count": 1306
   },
   {
     "full_name": "GoBandung/meetups",
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 12189,
+    "stargazers_count": 12275,
     "open_issues_count": 20,
-    "forks_count": 1445
+    "forks_count": 1452
   },
   {
     "full_name": "jhlywa/chess.js",
-    "stargazers_count": 2833,
+    "stargazers_count": 2836,
     "open_issues_count": 100,
-    "forks_count": 781
+    "forks_count": 783
   },
   {
     "full_name": "chainguard-dev/apko",
-    "stargazers_count": 487,
+    "stargazers_count": 488,
     "open_issues_count": 21,
     "forks_count": 27
   },
@@ -73,38 +73,38 @@
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 9208,
-    "open_issues_count": 31,
-    "forks_count": 175
+    "stargazers_count": 9790,
+    "open_issues_count": 33,
+    "forks_count": 203
   },
   {
     "full_name": "kcp-dev/kcp",
-    "stargazers_count": 1564,
-    "open_issues_count": 220,
-    "forks_count": 246
+    "stargazers_count": 1569,
+    "open_issues_count": 216,
+    "forks_count": 249
   },
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 25351,
-    "open_issues_count": 299,
-    "forks_count": 1531
+    "stargazers_count": 25462,
+    "open_issues_count": 301,
+    "forks_count": 1538
   },
   {
     "full_name": "IndoNLP/nusa-crowd",
     "stargazers_count": 163,
-    "open_issues_count": 57,
-    "forks_count": 32
+    "open_issues_count": 49,
+    "forks_count": 33
   },
   {
     "full_name": "sachaos/viddy",
-    "stargazers_count": 3497,
+    "stargazers_count": 3501,
     "open_issues_count": 16,
     "forks_count": 60
   },
   {
     "full_name": "multiprocessio/dsq",
-    "stargazers_count": 2604,
-    "open_issues_count": 13,
+    "stargazers_count": 2607,
+    "open_issues_count": 12,
     "forks_count": 88
   },
   {
@@ -115,68 +115,68 @@
   },
   {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 7776,
+    "stargazers_count": 7781,
     "open_issues_count": 1,
-    "forks_count": 485
+    "forks_count": 486
   },
   {
     "full_name": "multiprocessio/datastation",
-    "stargazers_count": 2431,
+    "stargazers_count": 2435,
     "open_issues_count": 31,
     "forks_count": 80
   },
   {
     "full_name": "hwayne/awesome-cold-showers",
-    "stargazers_count": 6441,
+    "stargazers_count": 6444,
     "open_issues_count": 11,
     "forks_count": 74
   },
   {
     "full_name": "sigstore/gitsign",
-    "stargazers_count": 592,
-    "open_issues_count": 14,
+    "stargazers_count": 598,
+    "open_issues_count": 16,
     "forks_count": 29
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 10316,
-    "open_issues_count": 66,
-    "forks_count": 483
+    "stargazers_count": 10398,
+    "open_issues_count": 67,
+    "forks_count": 490
   },
   {
     "full_name": "cncf/mentoring",
-    "stargazers_count": 1245,
-    "open_issues_count": 7,
-    "forks_count": 391
+    "stargazers_count": 1248,
+    "open_issues_count": 12,
+    "forks_count": 395
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34047,
+    "stargazers_count": 34095,
     "open_issues_count": 793,
-    "forks_count": 3113
+    "forks_count": 3114
   },
   {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 6896,
+    "stargazers_count": 6923,
     "open_issues_count": 20,
-    "forks_count": 1202
+    "forks_count": 1205
   },
   {
     "full_name": "burrowers/garble",
-    "stargazers_count": 1943,
+    "stargazers_count": 1951,
     "open_issues_count": 26,
-    "forks_count": 136
+    "forks_count": 137
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 7180,
+    "stargazers_count": 7233,
     "open_issues_count": 77,
-    "forks_count": 276
+    "forks_count": 277
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 7337,
-    "open_issues_count": 194,
-    "forks_count": 623
+    "stargazers_count": 7354,
+    "open_issues_count": 201,
+    "forks_count": 624
   }
 ]
