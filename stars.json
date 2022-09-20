@@ -1,39 +1,57 @@
 [
   {
+    "full_name": "bregman-arie/devops-exercises",
+    "stargazers_count": 29797,
+    "open_issues_count": 16,
+    "forks_count": 6402
+  },
+  {
+    "full_name": "woodrush/lambdalisp",
+    "stargazers_count": 141,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "open-rsm/vr",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 5182,
-    "open_issues_count": 8,
-    "forks_count": 81
+    "stargazers_count": 5337,
+    "open_issues_count": 7,
+    "forks_count": 82
   },
   {
     "full_name": "mattn/go-generics-example",
-    "stargazers_count": 1260,
+    "stargazers_count": 1261,
     "open_issues_count": 0,
     "forks_count": 122
   },
   {
     "full_name": "akutz/go-generics-the-hard-way",
-    "stargazers_count": 1682,
+    "stargazers_count": 1683,
     "open_issues_count": 0,
     "forks_count": 108
   },
   {
     "full_name": "fluhus/godoc-tricks",
-    "stargazers_count": 356,
+    "stargazers_count": 357,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "sigstore/sigstore",
     "stargazers_count": 325,
-    "open_issues_count": 37,
-    "forks_count": 67
+    "open_issues_count": 31,
+    "forks_count": 68
   },
   {
     "full_name": "sigstore/cosign",
-    "stargazers_count": 2468,
-    "open_issues_count": 215,
-    "forks_count": 296
+    "stargazers_count": 2478,
+    "open_issues_count": 209,
+    "forks_count": 295
   },
   {
     "full_name": "juliaferraioli/opensource-timeline",
@@ -43,9 +61,9 @@
   },
   {
     "full_name": "charliermarsh/ruff",
-    "stargazers_count": 1838,
-    "open_issues_count": 21,
-    "forks_count": 28
+    "stargazers_count": 1903,
+    "open_issues_count": 22,
+    "forks_count": 31
   },
   {
     "full_name": "akufadhl/Tuladha-Jejeg-OT",
@@ -55,9 +73,9 @@
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 11234,
-    "open_issues_count": 1,
-    "forks_count": 15483
+    "stargazers_count": 11247,
+    "open_issues_count": 2,
+    "forks_count": 15497
   },
   {
     "full_name": "nayafia/awesome-maintainers",
@@ -67,9 +85,9 @@
   },
   {
     "full_name": "nayafia/lemonade-stand",
-    "stargazers_count": 6906,
+    "stargazers_count": 6914,
     "open_issues_count": 15,
-    "forks_count": 338
+    "forks_count": 339
   },
   {
     "full_name": "natefinch/godocgo",
@@ -79,31 +97,31 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 12616,
+    "stargazers_count": 13494,
     "open_issues_count": 38,
-    "forks_count": 405
+    "forks_count": 439
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 17659,
-    "open_issues_count": 2320,
+    "stargazers_count": 17715,
+    "open_issues_count": 2332,
     "forks_count": 1329
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 10424,
+    "stargazers_count": 10649,
     "open_issues_count": 3,
-    "forks_count": 681
+    "forks_count": 703
   },
   {
     "full_name": "pressly/goose",
-    "stargazers_count": 2998,
-    "open_issues_count": 49,
+    "stargazers_count": 3009,
+    "open_issues_count": 50,
     "forks_count": 359
   },
   {
     "full_name": "sqlsite/awesome-sqlite",
-    "stargazers_count": 460,
+    "stargazers_count": 461,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -115,8 +133,8 @@
   },
   {
     "full_name": "kylesliu/awesome-golang-algorithm",
-    "stargazers_count": 3245,
-    "open_issues_count": 6,
+    "stargazers_count": 3247,
+    "open_issues_count": 8,
     "forks_count": 167
   },
   {
@@ -127,27 +145,27 @@
   },
   {
     "full_name": "superfly/litefs",
-    "stargazers_count": 1465,
-    "open_issues_count": 15,
+    "stargazers_count": 1474,
+    "open_issues_count": 16,
     "forks_count": 26
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 27373,
-    "open_issues_count": 200,
-    "forks_count": 1137
+    "stargazers_count": 27566,
+    "open_issues_count": 203,
+    "forks_count": 1142
   },
   {
     "full_name": "Vimux/blank",
-    "stargazers_count": 184,
+    "stargazers_count": 183,
     "open_issues_count": 0,
     "forks_count": 86
   },
   {
     "full_name": "adityatelange/hugo-PaperMod",
-    "stargazers_count": 4412,
-    "open_issues_count": 29,
-    "forks_count": 1391
+    "stargazers_count": 4452,
+    "open_issues_count": 32,
+    "forks_count": 1396
   },
   {
     "full_name": "GoBandung/meetups",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 12548,
+    "stargazers_count": 12566,
     "open_issues_count": 22,
-    "forks_count": 1477
-  },
-  {
-    "full_name": "jhlywa/chess.js",
-    "stargazers_count": 2871,
-    "open_issues_count": 104,
-    "forks_count": 785
-  },
-  {
-    "full_name": "chainguard-dev/apko",
-    "stargazers_count": 520,
-    "open_issues_count": 20,
-    "forks_count": 30
-  },
-  {
-    "full_name": "yzongyue/6.824-golabs-2020",
-    "stargazers_count": 314,
-    "open_issues_count": 6,
-    "forks_count": 89
+    "forks_count": 1481
   }
 ]
