@@ -1,19 +1,19 @@
 [
   {
     "full_name": "chainguard-dev/wolfi-os",
-    "stargazers_count": 86,
-    "open_issues_count": 6,
+    "stargazers_count": 91,
+    "open_issues_count": 4,
     "forks_count": 8
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 30501,
+    "stargazers_count": 30580,
     "open_issues_count": 15,
-    "forks_count": 6517
+    "forks_count": 6558
   },
   {
     "full_name": "woodrush/lambdalisp",
-    "stargazers_count": 156,
+    "stargazers_count": 158,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 5390,
-    "open_issues_count": 5,
-    "forks_count": 82
+    "stargazers_count": 5400,
+    "open_issues_count": 8,
+    "forks_count": 83
   },
   {
     "full_name": "mattn/go-generics-example",
-    "stargazers_count": 1265,
+    "stargazers_count": 1266,
     "open_issues_count": 0,
     "forks_count": 122
   },
   {
     "full_name": "akutz/go-generics-the-hard-way",
-    "stargazers_count": 1689,
+    "stargazers_count": 1690,
     "open_issues_count": 0,
     "forks_count": 108
   },
   {
     "full_name": "fluhus/godoc-tricks",
-    "stargazers_count": 360,
+    "stargazers_count": 361,
     "open_issues_count": 0,
     "forks_count": 25
   },
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "sigstore/cosign",
-    "stargazers_count": 2521,
-    "open_issues_count": 200,
-    "forks_count": 299
+    "stargazers_count": 2530,
+    "open_issues_count": 194,
+    "forks_count": 300
   },
   {
     "full_name": "juliaferraioli/opensource-timeline",
     "stargazers_count": 21,
-    "open_issues_count": 3,
-    "forks_count": 5
+    "open_issues_count": 2,
+    "forks_count": 4
   },
   {
     "full_name": "charliermarsh/ruff",
-    "stargazers_count": 1950,
-    "open_issues_count": 25,
-    "forks_count": 34
+    "stargazers_count": 1976,
+    "open_issues_count": 34,
+    "forks_count": 36
   },
   {
     "full_name": "akufadhl/Tuladha-Jejeg-OT",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 11275,
+    "stargazers_count": 11287,
     "open_issues_count": 0,
-    "forks_count": 15505
+    "forks_count": 15511
   },
   {
     "full_name": "nayafia/awesome-maintainers",
-    "stargazers_count": 1069,
+    "stargazers_count": 1070,
     "open_issues_count": 0,
     "forks_count": 62
   },
   {
     "full_name": "nayafia/lemonade-stand",
-    "stargazers_count": 6918,
+    "stargazers_count": 6920,
     "open_issues_count": 15,
     "forks_count": 339
   },
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 14123,
+    "stargazers_count": 14244,
     "open_issues_count": 40,
-    "forks_count": 463
+    "forks_count": 474
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 17798,
-    "open_issues_count": 2364,
-    "forks_count": 1337
+    "stargazers_count": 17829,
+    "open_issues_count": 2350,
+    "forks_count": 1338
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 11437,
-    "open_issues_count": 3,
-    "forks_count": 786
+    "stargazers_count": 12304,
+    "open_issues_count": 2,
+    "forks_count": 839
   },
   {
     "full_name": "pressly/goose",
-    "stargazers_count": 3028,
+    "stargazers_count": 3031,
     "open_issues_count": 52,
-    "forks_count": 359
+    "forks_count": 360
   },
   {
     "full_name": "sqlsite/awesome-sqlite",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "kylesliu/awesome-golang-algorithm",
-    "stargazers_count": 3253,
+    "stargazers_count": 3260,
     "open_issues_count": 8,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "lethain/papersandsystems",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "superfly/litefs",
-    "stargazers_count": 1693,
-    "open_issues_count": 20,
-    "forks_count": 35
+    "stargazers_count": 1708,
+    "open_issues_count": 19,
+    "forks_count": 36
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 27806,
-    "open_issues_count": 197,
-    "forks_count": 1153
+    "stargazers_count": 27880,
+    "open_issues_count": 204,
+    "forks_count": 1159
   },
   {
     "full_name": "Vimux/blank",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "adityatelange/hugo-PaperMod",
-    "stargazers_count": 4496,
-    "open_issues_count": 39,
-    "forks_count": 1410
+    "stargazers_count": 4516,
+    "open_issues_count": 40,
+    "forks_count": 1416
   },
   {
     "full_name": "GoBandung/meetups",
